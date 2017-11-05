@@ -1,4 +1,6 @@
-# Ng5minesweeper
+# angular-5-minesweeper
+Minesweeper game using angular 5
+### Under Construction
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
 
